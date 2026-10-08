@@ -33,11 +33,6 @@ This repo includes complete web app architecture: frontend UX, backend APIs, aut
 
 ---
 
-```bash
-┌──[ankan@digitantra]─[~/project]
-└─$ cat system_design.md
-```
-
 ## System Design
 
 ### High-Level Design
