@@ -4,12 +4,12 @@
   <span style="color:#00F7FF;">Digi</span><span style="color:#FF00D4;">Tantra</span>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AI-first+learning+platform+for+Data+Science+%2B+Full-Stack+Engineering;Production+auth+%7C+MongoDB+backed+sessions+%7C+Vercel+deployment;AI+Saarthi+%2B+AI+Enclave+(20+services)+%2B+course+marketplace+intelligence;Built+and+shipped+by+Ankan+Ghosh.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AI-first+learning+platform)
 
 <br/>
 
 [![Live](https://img.shields.io/badge/Live-digitantra.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=0a0a0a)](https://digitantra.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-DigiTantra-FF00D4?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/ankan00V/DigiTantra)
+[![Repo](https://img.shields.io/badge/GitHub-DigiTantra-FF00D4?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/AbhinavKumar2155/digitantra)
 [![Next.js](https://img.shields.io/badge/Next.js_15-App_Router-111111?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Production_DB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -19,7 +19,7 @@
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat project_overview.txt
 ```
 
@@ -34,7 +34,7 @@ This repo includes complete web app architecture: frontend UX, backend APIs, aut
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat system_design.md
 ```
 
@@ -94,7 +94,7 @@ flowchart TD
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat modules.txt
 ```
 
@@ -126,12 +126,12 @@ flowchart TD
 - Protected refresh endpoint: `POST /api/course-marketplace`
 - Token auth: `COURSE_MARKETPLACE_REFRESH_TOKEN` or `CRON_SECRET`
 - Provider catalog ingestion, normalization, categorization, persistence.
-- Daily Vercel cron refresh in [`vercel.json`](/Users/ankanghosh/Desktop/DigiTantra/vercel.json).
+- Daily Vercel cron refresh in [`vercel.json`](vercel.json).
 
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat ai_enclave_services.txt
 ```
 
@@ -169,7 +169,7 @@ Builder/Dev AI:
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat stack.txt
 ```
 
@@ -187,7 +187,7 @@ Builder/Dev AI:
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat api_surface.txt
 ```
 
@@ -209,7 +209,7 @@ Builder/Dev AI:
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat mongo_collections.txt
 ```
 
@@ -225,15 +225,15 @@ Builder/Dev AI:
 ---
 
 ```bash
-┌──[ankan@digitantra]─[~/project]
+┌──[dev@digitantra]─[~/project]
 └─$ cat quickstart.sh
 ```
 
 ## Local Setup
 
 ```bash
-git clone https://github.com/ankan00V/DigiTantra.git
-cd DigiTantra
+git clone https://github.com/AbhinavKumar2155/digitantra.git
+cd digitantra
 npm install
 npm run dev
 ```
